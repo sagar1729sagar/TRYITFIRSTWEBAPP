@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">TryItFirstWebApp</string>
+    <string name="name">Try It First!</string>
 </resources>
